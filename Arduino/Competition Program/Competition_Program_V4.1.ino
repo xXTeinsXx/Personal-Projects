@@ -52,4 +52,4 @@ void loop() {
     pulse.setServoPosition(2, 100);
   }
 }
-//Competition Robot code v2. Code written by Bryan. Robot worked on by Jonathan, Armani and Bry. Praise the Sun, and may the Old Blood guide you!
+//Competition Robot code v4.1. Code written by Bryan. Robot worked on by Jonathan, Armani and Bry. Praise the Sun, and may the Old Blood guide you!
